@@ -1,9 +1,9 @@
-# Onez — Hassle-free web3 ecosystem for businesses
+# 👋 Onez — Hassle-free web3 ecosystem for businesses
 
 Welcome to the official repository of [onez.io](https://onez.io), a company dedicated to kick-starting web3 ventures. Our mission is to create a seamless web3 ecosystem that empowers businesses to thrive. With our wide range of products, we're here to give your projects the boost they need to reach new heights.
 
 
-## Products
+## 🛠️ Products
 Onez offers a wide range of products designed to empower businesses in the web3 space. Here's a brief overview of our product suite:
 
 - [White Label Crypto Wallet](https://onez.io/products/white-label-crypto-wallet) solution allows businesses to launch their own branded crypto wallet. It supports multiple cryptocurrencies and blockchain protocols, is highly scalable, customizable, and secure. It includes user identity and integrity features to ensure that only authorized parties have access to your customers' digital assets.
@@ -13,7 +13,7 @@ Onez offers a wide range of products designed to empower businesses in the web3 
 - [Crypto accounting platform](https://onez.io/products/white-label-crypto-accounting) that efficiently manages your business's finances, including digital assets and fiat. It offers real-time reporting and analytics for informed financial decision-making.
 
 
-## Getting Started
+## 🚀 Getting Started
 
 To start using our products, follow these steps:
 
@@ -26,7 +26,7 @@ To start using our products, follow these steps:
 4. Get in touch: If you have any questions or need further assistance, don't hesitate to [get in touch](https://t.me/onez_sales) with us. Our team is always ready to help!
 
 
-## Contact Information
+## 📬 Contact Information
 
 We're always here to help. If you have any questions, suggestions, or need assistance, feel free to get in touch with us:
 
