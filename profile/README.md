@@ -21,6 +21,19 @@ To start using our products, follow these steps:
 
 2. Choose a product: We offer a range of products including a Wallet, Exchange, Payment Gateway, NeoBanking solution, and Accauring platform. Choose the one that best fits your business needs.
 
-3. Book a demo: To get a firsthand experience of our products, you can [book a demo](https://onez.io/book-a-demo) with us. Our team will walk you through the features and functionalities of our products.
+3. Book a demo: To get a firsthand experience of our products, you can [book a demo](https://calendly.com/onez_io/meeting?utm_source=GitHub) with us. Our team will walk you through the features and functionalities of our products.
 
 4. Get in touch: If you have any questions or need further assistance, don't hesitate to [get in touch](https://t.me/onez_sales) with us. Our team is always ready to help!
+
+
+## Contact Information
+
+We're always here to help. If you have any questions, suggestions, or need assistance, feel free to get in touch with us:
+
+- Email: You can reach us at [hello@onez.io](mailto:hello@onez.io) for general inquiries.
+- Support: For technical support or issues, please email [dev@onez.io](mailto:dev@onez.io).
+- Website: Visit our [website](https://onez.io) for more information about our products and services.
+- Book a Demo: If you're interested in our products and want to see them in action, you can [book a demo](https://calendly.com/onez_io/meeting?utm_source=GitHub) with us.
+
+**We look forward to hearing from you!**
+
